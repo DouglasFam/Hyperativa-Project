@@ -2,7 +2,7 @@
 
 <h2 align="center">Construção</h2>
     Principais frameworks/bibliotecas utilizados no projeto
-=================
+
     <p align="center">
      <a href="#https://dotnet.microsoft.com/download/dotnet/5.0">.NET 5</a> •
      <a href="#https://swagger.io/">Swagger</a> • 
