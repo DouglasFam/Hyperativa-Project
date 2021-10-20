@@ -1,3 +1,14 @@
+<h1 align="center">Hyperativa WEB API</h1>
+
+<h2 align="center">Construção</h2>
+    Principais frameworks/bibliotecas utilizados no projeto
+<!--ts-->
+   * [.NET 5](#https://dotnet.microsoft.com/download/dotnet/5.0)
+   * [Swagger](#https://swagger.io/)
+   * [Entity Framework Core](#https://docs.microsoft.com/pt-br/ef/)
+   * [JWT Token](#https://jwt.io/)    
+<!--te-->
+
 <h2 align="center">Clone</h2>
 
 ```
@@ -5,9 +16,9 @@ C:\>git clone https://github.com/DouglasFam/Hyperativa-Project.git
 ```
 
 <h2 align="center">Executar</h2>
-Abrir o projeto com o Visual Studio 19.
-apontar o Gerenciador de pacotes para a aplicação Hyperativa.Data
-executar o script:
+Abra o projeto com o Visual Studio 19.
+aponte o Gerenciador de pacotes para a aplicação Hyperativa.Data
+execute o script:
 
 ```
 update-database
@@ -25,7 +36,7 @@ A ConnectionString está setada para o localdb.
 ```
 
 <h2 align="center">Insert User Token</h2>
-Inserir no banco um usuário para gerar o token
+Insira no banco um usuário para gerar o token
 
 ```
 INSERT INTO [dbo].[HPRTV_Users]
