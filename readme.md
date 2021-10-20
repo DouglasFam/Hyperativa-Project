@@ -72,6 +72,7 @@ Adicione o usuario e senha que foi inserido no banco HPRTV_Users e execute
 
 Irá gerar o Token Bearer. Copie o Código, vá em Authorize e adicione o token.
 Após autenticação do token, a API está liberada para ser consumida.
+O tempo limite do Token é de 2h.
 
 
 
