@@ -51,7 +51,7 @@ INSERT INTO [dbo].[HPRTV_Users]
            ,'teste')
 ```           
 
-<h2 align="center">Consumingo a API</h2>
+<h2 align="center">Consumindo a API</h2>
 Após executar o projeto, irá abrir a página 
 
 ``` 
