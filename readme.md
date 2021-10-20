@@ -2,12 +2,14 @@
 
 <h2 align="center">Construção</h2>
     Principais frameworks/bibliotecas utilizados no projeto
-<!--ts-->
-   * [.NET 5](#https://dotnet.microsoft.com/download/dotnet/5.0)
-   * [Swagger](#https://swagger.io/)
-   * [Entity Framework Core](#https://docs.microsoft.com/pt-br/ef/)
-   * [JWT Token](#https://jwt.io/)    
-<!--te-->
+=================
+    <p align="center">
+     <a href="#https://dotnet.microsoft.com/download/dotnet/5.0">.NET 5</a> •
+     <a href="#https://swagger.io/">Swagger</a> • 
+     <a href="#https://docs.microsoft.com/pt-br/ef/">Entity Framework Core</a> • 
+     <a href="#https://jwt.io/">JWT Token</a> 
+
+    </p>
 
 <h2 align="center">Clone</h2>
 
