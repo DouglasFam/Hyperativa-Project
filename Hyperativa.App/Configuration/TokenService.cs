@@ -17,7 +17,7 @@ namespace Hyperativa.App.Configuration
 
         public static string GenerateToken(User user)
         {
-            //var teste = _configuration.GetSection("TokenSecret").GetSection("Secret").Value;
+            var teste = _configuration.GetSection("TokenSecret:Secret").Value;
             var tokenHandler = new JwtSecurityTokenHandler();
 
             var key = Encoding.ASCII.GetBytes(TokenSecret.Secret);
